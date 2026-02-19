@@ -1,0 +1,4 @@
+19:Feb:2026:15:49:14 -INFO -This is INFO Log
+19:Feb:2026:15:49:14 -ERROR -This is Error Log
+19:Feb:2026:15:49:14 -WARN -This is Warning Log
+19:Feb:2026:15:49:14 -FATAL -This is FATAL Log
